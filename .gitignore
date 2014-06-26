@@ -1,0 +1,6 @@
+syntax: glob
+.*swp
+*.log
+*.pyc
+*.egg
+*.sublime-workspace
